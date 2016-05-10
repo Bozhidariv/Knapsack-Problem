@@ -3,7 +3,7 @@ Java project that solves Knapsack Problem with DP and B&amp;B
 
 
 
-### Indiana Jones
+### Indiana Jones 
 Indiana Jones often faces difficult dilemmas in his travels. On his last journey
 into the crypt on a long-forgotten emperor he found countless treasures but he could
 only carry no more than *N* kilograms of loot on the way back. Help him make
